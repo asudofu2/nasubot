@@ -1,0 +1,8 @@
+{
+    "mount_points": [
+        "/",
+        "/home"
+    ],
+    "remaining_space_alert": 10,
+    "slack_webhook_url": "Webhook URL"
+}

@@ -1,0 +1,3 @@
+[tasks.ubuntu] # Ubuntu用クロスコンパイル
+command = "cross"
+args = ["build", "--target", "x86_64-unknown-linux-musl", "--release"]
